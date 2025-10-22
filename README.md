@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Darya Alcock
+# Hi, I’m Darya
 
 🌱 MSc Computer Science & Artificial Intelligence @ City, University of London  
 🧠 BSc Biomedical Science (KCL) | Researcher | AI Trainer | LLM Systems Enthusiast  
@@ -19,7 +19,7 @@ Led lab sessions using ChatGPT as a support tool for scientific experiments.
 ---
 
 ## 📫 Contact  
-- 📍 London / Remote  
+- 📍 London / Vancouver / Remote  
 - 📧 daryaalcock@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/daryaa)
 
