@@ -1,5 +1,6 @@
-# Welcome! I’m Darya — a scientist-turned-AI-engineer-in-training currently completing my MSc in Computer Science & Artificial Intelligence. My work spans machine learning, scientific computing, algorithms, and wet-lab research, with a focus on building systems that apply AI to health, materials, and environmental challenges.
+# Hi! I’m Darya 
 
+--> scientist, now AI-engineer-in-training currently completing my MSc in Computer Science & Artificial Intelligence. My work spans machine learning, scientific computing, algorithms, and wet-lab research, with a focus on building systems that apply AI to health, materials, and environmental challenges.
 
 🌱 MSc Computer Science & Artificial Intelligence @ City, University of London  
 🧠 BSc Biomedical Science (KCL) | Researcher | AI Trainer | LLM Systems Enthusiast  
