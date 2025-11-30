@@ -1,8 +1,9 @@
-# Hi, I’m Darya
+# Welcome! I’m Darya — a scientist-turned-AI-engineer-in-training currently completing my MSc in Computer Science & Artificial Intelligence. My work spans machine learning, scientific computing, algorithms, and wet-lab research, with a focus on building systems that apply AI to health, materials, and environmental challenges.
+
 
 🌱 MSc Computer Science & Artificial Intelligence @ City, University of London  
 🧠 BSc Biomedical Science (KCL) | Researcher | AI Trainer | LLM Systems Enthusiast  
-🎯 Interests: LLMs, Prompt Design, NLP, Sustainable AI, Human-AI Interaction
+🎯 Interests: Sustainable AI, Human-AI Interaction, Health-Tech, Neuroengineering + Neuroprosthetics 
 
 ---
 
@@ -14,7 +15,6 @@ Led lab sessions using ChatGPT as a support tool for scientific experiments.
 - Acted as AI systems expert and guided LLM-supported learning  
 - Ensured data integrity and protocol compliance during AI-assisted tasks
 
-[Write-up coming soon]
 
 ---
 
